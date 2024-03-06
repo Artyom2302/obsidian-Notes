@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "b24407f47d7ddee1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9144e129bf394148",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb0a24384ecf5668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Уроки/БЖД/Текст реферата/Основная часть.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3bb64a2b9e7b9660",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0ab6d5ebc2a0bd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8523178702988403",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b0ba2847ce14b3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a076c98bd56b7fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "03d8f5d61170b8f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "afac86095b79a657",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bcf28195bd0a406",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Уроки/БЖД/Текст реферата/Основная часть.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f6c761080fc42fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Уроки/БЖД/Текст реферата/Основная часть.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2939e1bfa7f9c708",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2520aecef3ed1dc5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Уроки/БЖД/Текст реферата/Основная часть.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eb0a24384ecf5668",
+  "lastOpenFiles": [
+    "2024-03-06.md",
+    "Уроки/БЖД/Текст реферата/Основная часть.md",
+    "Pasted image 20240305162209.png",
+    "Уроки/БЖД/Текст реферата/Введение.md",
+    "Уроки/БЖД/Литература.md",
+    "Уроки/БЖД/Pasted image 20240225183258.png",
+    "Уроки/БЖД/План реферата.md",
+    "Уроки/БЖД/План.md",
+    "Уроки/БЖД/Факторы/Химические/Химические вещества.md",
+    "Уроки/БЖД/Факторы/Физические/Шум в офисном помещении.md",
+    "Уроки/БЖД/Факторы/Физические/Освещенность.md",
+    "Уроки/БЖД/Текст реферата",
+    "Уроки/БЖД/Факторы/Физические/Излучение.md",
+    "Уроки/БЖД/Факторы/Психофизические",
+    "Уроки/БЖД/Факторы/Химические",
+    "Уроки/БЖД/Факторы/Физические",
+    "Уроки/БЖД/Все факторы",
+    "Pasted image 20240301214713.png",
+    "2024-03-01.md",
+    "Pasted image 20240225183427.png.md",
+    "Уроки/Измерение и контроль в процессах нефтегазовой среды/ЛР №1 Защита.md",
+    "Уроки/Измерение и контроль в процессах нефтегазовой среды",
+    "Pasted image 20240225183427.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Java/MTS course/IMG/Pasted image 20240229182507.png",
+    "Java/MTS course/IMG/Pasted image 20240229182703.png",
+    "Java/MTS course/Generic и Collection.md",
+    "Java/MTS course/Лямбды, Stream API, Optional.md",
+    "Java/MTS course/IMG/Pasted image 20240229190218.png",
+    "Java/MTS course/IMG/Pasted image 20240229185931.png",
+    "Java/MTS course/IMG/Pasted image 20240229185350.png",
+    "Java/MTS course/IMG/Pasted image 20240229181100.png",
+    "Дипломная работа/Практическая часть/Планы.md",
+    "Дипломная работа/Практическая часть/Архитектура.md",
+    "Дипломная работа/Практическая часть/Начальное API.md",
+    "Уроки/БЖД/Факторы",
+    "Уроки/БЖД",
+    "Уроки/Untitled.md",
+    "Уроки",
+    "Java/MTS course/IMG",
+    "Java/Untitled.md",
+    "Java/Java/Collection/Untitled 1.md",
+    "Java/Java/Collection/MTS лекция.md",
+    "Java/Java/Изучить Stream API.md",
+    "Java/Spring/Spring MVC/Spring MVC.md",
+    "Java/Spring/Изучить жизненный цикл bean'а.md",
+    "SelfImprovment/Sport/Тренировки/Что нужно сделать/Тренировки.md",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas"
+  ]
+}
